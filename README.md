@@ -1,4 +1,4 @@
-# Weather Journal App
+# Weather App
 
 ## Overview
 
