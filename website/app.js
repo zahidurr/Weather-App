@@ -1,7 +1,7 @@
 /* Global Variables */
 // OpenWeatherMap API & Key
 const baseURL = "http://api.openweathermap.org/data/2.5/weather?zip=";
-const apiKey = "&appid=6f34a3338752e59ed6af2f5a7d9d64fd";
+const apiKey = "&appid=YOUR-API-KEY";
 const serverURL = "http://127.0.0.1:8080";
 
 // Create a new date instance dynamically with JS
